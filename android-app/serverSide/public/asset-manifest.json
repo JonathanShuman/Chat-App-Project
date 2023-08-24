@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1f61228.css",
+    "main.js": "/static/js/main.595e066d.js",
+    "static/js/787.b8958da8.chunk.js": "/static/js/787.b8958da8.chunk.js",
+    "static/media/moonbackground.jpg": "/static/media/moonbackground.152a8ceba747d4105b5f.jpg",
+    "index.html": "/index.html",
+    "main.b1f61228.css.map": "/static/css/main.b1f61228.css.map",
+    "main.595e066d.js.map": "/static/js/main.595e066d.js.map",
+    "787.b8958da8.chunk.js.map": "/static/js/787.b8958da8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1f61228.css",
+    "static/js/main.595e066d.js"
+  ]
+}

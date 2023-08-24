@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761261521697",
+    "project_id": "spanon-5da17",
+    "storage_bucket": "spanon-5da17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761261521697:android:bd151bf450bff075545c60",
+        "android_client_info": {
+          "package_name": "com.example.ap2_ex3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761261521697-s7nt324uevm04b7k7r2p4ta2i92bnu3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_7Zbb0OYQAvBgUrvGETUwzGdX4FWU-eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761261521697-s7nt324uevm04b7k7r2p4ta2i92bnu3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
