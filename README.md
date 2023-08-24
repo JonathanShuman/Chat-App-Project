@@ -1,5 +1,5 @@
-# Mitkadem-2-project
-Yony's and Tzlil's project
+# Chat-App-Project
+
 
 ## For cloning our project you can to do this following steps:<br />
 1.Enter the terminal.<br />
@@ -7,7 +7,7 @@ Yony's and Tzlil's project
 3.Open the folder.<br />
 4.Right click "open in terminal".<br />
 5.Write in the termninal "git clone https://github.com/tzlilshkuri/ap2_ex1_partA.git".<br />
-6.Open the folder "ap2_ex2".<br />
+6.Open the relevant folder.<br />
 7.Add the folder "node_modules".<br />
 8.Open the cmd from the current folder.<br />
 9. Go to the description of ex2 in order to choose which part you want to run and get instructions on what to write for it. <br />
@@ -113,7 +113,7 @@ Screenshot for demonstration: <br />
 3.Open the folder.<br />
 4.Right click "open in terminal".<br />
 5.Write in the termninal "git clone https://github.com/tzlilshkuri/ap2_ex3.git".<br />
-6.Open the folder "ap2_ex3".<br />
+6.Open the relevant folder.<br />
 7.Add the folder "node_modules".<br />
 8. Enter the folder where the server is located, enter cmd and write "node server.js" (this step run the server side) <br />
 9. Open the Android Studio and click on "run".
