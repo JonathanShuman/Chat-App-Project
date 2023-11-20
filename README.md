@@ -6,7 +6,7 @@
 2.Open a folder in your computer (In example call her "gitFolder').<br />
 3.Open the folder.<br />
 4.Right click "open in terminal".<br />
-5.Write in the termninal "git clone https://github.com/tzlilshkuri/ap2_ex1_partA.git".<br />
+5.Write in the termninal "git clone https://github.com/JonathanShuman/Chat-App-Project.git".<br />
 6.Open the relevant folder.<br />
 7.Add the folder "node_modules".<br />
 8.Open the cmd from the current folder.<br />
